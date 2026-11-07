@@ -1,0 +1,17 @@
+{
+  "name": "Semainier",
+  "short_name": "Semainier",
+  "description": "Emploi du temps de la semaine et tâches à glisser au doigt.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#D6DBE2",
+  "theme_color": "#D6DBE2",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
